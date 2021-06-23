@@ -1,9 +1,9 @@
 {
-    "name": "RAVAN",
-    "description": "RAVANA💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "MARAYA",
+    "description": "MARAYA💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/24cacd9938446a38180fd.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/RAVANA-SL/slRavana",
+    "repository": "https://github.com/Navidusathsara/Maraya_Bot",
     "website":   "https://t.me/farhan-dqz",
     "success_url": "https://t.me/farhan-dqz",
     "stack": "container",
