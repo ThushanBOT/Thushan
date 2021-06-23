@@ -1,5 +1,5 @@
 
-<img src = "https://telegra.ph/file/b4dc38074c164e017712c.jpg">
+<img src = "https://telegra.ph/file/b4dc38074c164e017712c.jpg" style = "width="500px";">
 
     
        | © | Reserved |
