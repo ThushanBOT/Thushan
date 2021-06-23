@@ -1,6 +1,6 @@
-
-<img src = "https://telegra.ph/file/b4dc38074c164e017712c.jpg" style = "width="500px";">
-
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/b4dc38074c164e017712c.jpg" width="250" height="250"/>
+  <p align="center">
     
        | © | Reserved |
     
